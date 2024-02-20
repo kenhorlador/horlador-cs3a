@@ -24,8 +24,7 @@ def run():
         page_icon="👋",
     )
     st.write("# Welcome to Streamlit ! 👋")
-    st.write("# Ang cute ni Ken Horlador! 👋")
-
+    st.write(" by [Ken Horlador](https://github.com/kenhorlador)! 🦖")
 
     st.sidebar.success("Select a demo above.")
 
