@@ -23,8 +23,9 @@ def run():
         page_title="Hello",
         page_icon="👋",
     )
+    st.write("# Welcome to Streamlit ! 👋")
+    st.write("# Ang cute ni Ken Horlador! 👋")
 
-    st.write("# Welcome to Streamlit! 👋")
 
     st.sidebar.success("Select a demo above.")
 
